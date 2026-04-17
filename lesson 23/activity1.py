@@ -17,6 +17,6 @@ def numberOfBits(n):
         n=n>>1
     print("\n\nOnes = ",ones, "\nZeros ", zeros)
 
-    
+
 number = int(input("Enter your number: "))
 numberOfBits (number)
